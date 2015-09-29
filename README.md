@@ -1,4 +1,4 @@
-# go-precure
+# (WIP) go-precure
 
 golang port of [Acme::PrettyCure](https://github.com/kan/p5-acme-prettycure)
 
