@@ -32,3 +32,7 @@ MIT
 ## Author
 
 Yasuhiro Matsumoto (a.k.a mattn)
+
+## TODO
+
+* Design Refactoring: Role, Base, Transformer
